@@ -1,4 +1,4 @@
-- 👋 Bonjour, I’m @gauthiersvss
+- 👋 Bonjour, nom de dev @gauthiersvss
 - 👀 Je suis développeur de site HTLM et de BOT Dicrd avec J.S
 - 🌱 Ecole de développement en ligne
 - 💞️ Collaboration avec Shodan Developer
