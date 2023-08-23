@@ -2,4 +2,4 @@
 - 👀 Je suis développeur de site HTLM et de BOT Dicrd avec J.S
 - 🌱 Ecole de développement en ligne
 - 💞️ Collaboration avec Shodan Developer
-- 📫 gauthier.svss sur Discord
+- 📫 ali.svss sur Discord
